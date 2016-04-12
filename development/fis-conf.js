@@ -29,7 +29,7 @@ fis.set('project.md5Connector ', '_');
 
 /**************************Beta******************************/
 fis.media('beta')
-	.set("project.ignore", ['*.psd', '.git/**'])
+	.set("project.ignore", ['*.psd', '.git/**','demo.*'])
 	.match('::package', {
 		// npm install [-g] fis3-postpackager-loader
 		// 分析 __RESOURCE_MAP__ 结构，来解决资源加载问题

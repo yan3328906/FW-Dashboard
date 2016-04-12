@@ -18,3 +18,4 @@
   * 更新模块：nav、head、panel、footer、account(V3设计版本)
   * 虚拟服务器数据，使用json格式
   * 应用AngularJS、AngularUI到项目中
+  * 使用前端自动化测试工具
